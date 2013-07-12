@@ -15,3 +15,5 @@ Host nala
     port 54322
     ServerAliveInterval 30
     ServerAliveCountMax 120
+
+# vim: set ft=sshconfig:
