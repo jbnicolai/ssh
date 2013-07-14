@@ -1,9 +1,4 @@
 PWD = `pwd`
-FILES ="config"
 
-all: linkfiles
-
-linkfiles:
-	for file in $(FILES); do \
-		ln -sf "$$PWD/$$file" ~/"$$file"; \
-	done
+all:
+	ln -sf "$$PWD/config" ~/.ssh/config
