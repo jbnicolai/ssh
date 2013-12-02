@@ -10,10 +10,22 @@ ControlPath /tmp/ssh_mux_%h_%p_%r
 ControlPersist 1h
 
 Host nala
-    HostName nala.villavu.com
-    User joshua
-    port 54322
-    ServerAliveInterval 30
-    ServerAliveCountMax 120
+  HostName nala.villavu.com
+  User joshua
+  port 54322
+  ServerAliveInterval 30
+  ServerAliveCountMax 120
+
+Host build
+  HostName vls13469.europe.intranet
+  User pa11eo
+
+Host o
+  HostName rn112dx.itc.intranet
+  User pa11eo
+
+Host t
+  HostName rn112eb.itc.intranet
+  User pa11eo
 
 # vim: set ft=sshconfig:
