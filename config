@@ -28,4 +28,8 @@ Host t
   HostName rn112eb.itc.intranet
   User pa11eo
 
+Host ing
+  HostName 10.64.84.241
+  User joshua
+
 # vim: set ft=sshconfig:
