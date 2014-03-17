@@ -32,4 +32,12 @@ Host ing
   HostName 10.64.84.241
   User joshua
 
+Host mini
+  HostName mobile-mini
+  User mobile
+
+Host mobile
+  HostName mobile
+  User mobile
+
 # vim: set ft=sshconfig:
