@@ -40,4 +40,8 @@ Host mobile
   HostName mobile
   User mobile
 
+Host rotanev
+  HostName rotanev.dreamhost.com
+  User jbnicolai
+
 # vim: set ft=sshconfig:
