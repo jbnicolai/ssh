@@ -29,7 +29,7 @@ Host t
   User pa11eo
 
 Host ing
-  HostName 10.64.84.241
+  HostName 10.64.84.211
   User joshua
 
 Host mini
