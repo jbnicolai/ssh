@@ -20,40 +20,12 @@ Host build
   HostName vls13469.europe.intranet
   User pa11eo
 
-Host o
-  HostName rn112dx.itc.intranet
-  User pa11eo
-
-Host t
-  HostName rn112eb.itc.intranet
-  User pa11eo
-
 Host ing
   HostName 10.64.84.211
   User joshua
 
-Host mini
-  HostName mobile-mini
-  User mobile
-
-Host mobile
-  HostName mobile
-  User mobile
-
 Host rotanev
   HostName rotanev.dreamhost.com
   User jbnicolai
-
-Host mobile-1
-  HostName mobile-1
-  User jenkins
-
-Host mobile-2
-  HostName mobile-2
-  User jenkins
-
-Host lammert
-  HostName lammerts-macbook-pro.local
-  User lwesterhoff
 
 # vim: set ft=sshconfig:
