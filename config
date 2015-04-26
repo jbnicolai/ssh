@@ -16,14 +16,6 @@ Host nala
   ServerAliveInterval 30
   ServerAliveCountMax 120
 
-Host build
-  HostName vls13469.europe.intranet
-  User pa11eo
-
-Host ing
-  HostName 10.64.84.211
-  User joshua
-
 Host rotanev
   HostName rotanev.dreamhost.com
   User jbnicolai
