@@ -20,4 +20,8 @@ Host rotanev
   HostName rotanev.dreamhost.com
   User jbnicolai
 
+Host xebia
+  HostName applications.xebia.com
+  User jappelman
+
 # vim: set ft=sshconfig:
