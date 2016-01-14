@@ -7,6 +7,9 @@ Compression=yes
 ControlMaster auto
 ControlPath /tmp/ssh_mux_%h_%p_%r
 
+Host *
+UseRoaming no
+
 Host nala
   HostName nala.villavu.com
   User joshua
